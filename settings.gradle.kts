@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ConcurrencyExample"
 include(":app")
- 
+include(":library")
